@@ -68,7 +68,7 @@ nav input[type=checkbox]:checked + .nav-list{
 
 /*--------------mobile welcome-section--------------*/
 #welcome-section{
-    height: 90vh;
+    height: 50vh;
     background: url(../welcome.jpg);
     background-position: center;
     background-repeat: no-repeat;

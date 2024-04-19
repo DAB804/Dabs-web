@@ -70,7 +70,6 @@ nav input[type=checkbox]:checked + .nav-list{
 #welcome-section{
     height: 100vh;
     background: url(../welcome.jpg);
-    width=100% 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
